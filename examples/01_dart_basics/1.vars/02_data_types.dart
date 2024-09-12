@@ -19,4 +19,5 @@ void main() {
   dynamic dynamicVar = 4.5;
   dynamicVar = "text"; // can assign another datatype
   print(dynamicVar);
+  
 }
